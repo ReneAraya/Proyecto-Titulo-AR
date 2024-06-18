@@ -1,0 +1,19 @@
+# ninja log v5
+6909	7422	7342158378510263	S:/PROYECTO TITULO AR/AR App V2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/6c6a4y5v/obj/arm64-v8a/libgame.so	ce79a751e69e6b81
+236	6593	7342158361822368	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	73b7ecb4749c80c
+55	6599	7342158367477582	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	434994f2c831f20f
+319	6879	7342158368037562	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a139563e15357349
+207	6905	7342158369072803	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	41876c411b65247b
+310	6901	7342158368972804	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e2020d7b8203f009
+224	6908	7342158370768074	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b273300db4e3ff5e
+185	6909	7342158371669942	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3a6d6fffa82909fe
+114	1099	7342175519715546	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1706745f1c24cf5a
+1100	2250	7342175526391287	S:/PROYECTO TITULO AR/AR App V2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/6c6a4y5v/obj/arm64-v8a/libswappywrapper.so	3aa2b17e29553b59
+15	2545	7342175534971146	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	434994f2c831f20f
+106	2606	7342175535677001	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	73b7ecb4749c80c
+84	2636	7342175536022793	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e2020d7b8203f009
+59	2748	7342175537299621	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	41876c411b65247b
+96	2784	7342175537409599	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a139563e15357349
+78	2890	7342175538861261	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b273300db4e3ff5e
+45	2958	7342175539546367	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3a6d6fffa82909fe
+2958	3194	7342175541176735	S:/PROYECTO TITULO AR/AR App V2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/6c6a4y5v/obj/arm64-v8a/libgame.so	ce79a751e69e6b81

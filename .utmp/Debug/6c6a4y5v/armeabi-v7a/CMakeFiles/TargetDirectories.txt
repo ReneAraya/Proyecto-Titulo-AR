@@ -1,0 +1,8 @@
+S:/PROYECTO TITULO AR/AR App V2/.utmp/Debug/6c6a4y5v/armeabi-v7a/CMakeFiles/edit_cache.dir
+S:/PROYECTO TITULO AR/AR App V2/.utmp/Debug/6c6a4y5v/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+S:/PROYECTO TITULO AR/AR App V2/.utmp/Debug/6c6a4y5v/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+S:/PROYECTO TITULO AR/AR App V2/.utmp/Debug/6c6a4y5v/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+S:/PROYECTO TITULO AR/AR App V2/.utmp/Debug/6c6a4y5v/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+S:/PROYECTO TITULO AR/AR App V2/.utmp/Debug/6c6a4y5v/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+S:/PROYECTO TITULO AR/AR App V2/.utmp/Debug/6c6a4y5v/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+S:/PROYECTO TITULO AR/AR App V2/.utmp/Debug/6c6a4y5v/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

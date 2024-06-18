@@ -1,0 +1,19 @@
+# ninja log v5
+10	1655	7342158440170335	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8f82a57c762a60aa
+1842	2076	7342158444486869	S:/PROYECTO TITULO AR/AR App V2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/6c6a4y5v/obj/armeabi-v7a/libgame.so	9752f0432a8c9622
+29	1659	7342158439622960	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4a54acc536d25543
+17	1792	7342158442026503	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6bc415f949af6586
+44	1701	7342158440846489	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	207f3c6981aab1df
+51	1734	7342158440886519	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ddadd52f56552a86
+37	1836	7342158442786479	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	30be039eccc2e2ca
+1	1842	7342158442836505	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d1b0dd2e5c368868
+41	3363	7342175606395761	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4a54acc536d25543
+28	3484	7342175607591468	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8f82a57c762a60aa
+7	3773	7342175608112732	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6bc415f949af6586
+150	3790	7342175584579427	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	ed36d70a9f10c82b
+117	4030	7342175610532699	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ddadd52f56552a86
+143	4120	7342175611482707	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	207f3c6981aab1df
+3796	4238	7342175615053701	S:/PROYECTO TITULO AR/AR App V2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/6c6a4y5v/obj/armeabi-v7a/libswappywrapper.so	8cbf3f2f23e8c5ad
+134	4339	7342175616831044	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	30be039eccc2e2ca
+16	4474	7342175618231023	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d1b0dd2e5c368868
+4474	4713	7342175619861041	S:/PROYECTO TITULO AR/AR App V2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/6c6a4y5v/obj/armeabi-v7a/libgame.so	9752f0432a8c9622
